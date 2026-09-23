@@ -15,6 +15,7 @@ The App stores data only in private, app-specific storage on your device:
 * Game save files (maps, cities, armies, and match state)
 * Arcade campaign progress
 * Settings you choose (such as your player display name, sound, and gameplay preferences)
+* Local achievement system
 
 This data is used solely to run the App and to let you continue your games. It is not shared with anyone.
 
@@ -48,7 +49,7 @@ Data stored by the App remains on your device until you delete it. You can:
 
 The App is not directed at children under 13, and we do not knowingly collect personal data from children.
 
-The App does not require an account or any online service. However, any user of the App, including a child, will have data stored locally on their own device: save files, arcade progress, and the player display name they enter. In addition, during local network multiplayer, that display name and match data are shared with the other devices taking part in the same match on the same local network, as described in section 3.
+The App does not require an account or any online service. However, any user of the App, including a child, will have data stored locally on their own device: save files, arcade progress, achievements and the player display name they enter. In addition, during local network multiplayer, that display name and match data are shared with the other devices taking part in the same match on the same local network, as described in section 3.
 
 If a child is using the App, a parent or guardian may review and delete this data by deleting save files in-game, or by uninstalling the App, which removes App data from the device.
 
